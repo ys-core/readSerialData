@@ -1,2 +1,2 @@
 # readSerialData
-# read the serial data and calcualte the dynamical curve in UI
+# read the serial data and plot the dynamical curve in UI
